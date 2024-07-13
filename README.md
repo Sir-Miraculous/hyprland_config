@@ -8,7 +8,7 @@ Clone this repo and copy the hyprland.conf file to ~/.config/hypr/
 git clone https://github.com/Sir-Miraculous/hyprland_config.git
 ```
 
-To automate this, use the follownig
+## To automate this, use the follownig
 ```ruby
 git clone https://github.com/Sir-Miraculous/hyprland_config.git
 mkdir ~/.config/hypr
