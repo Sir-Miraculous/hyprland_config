@@ -6,3 +6,9 @@ Clone this repo and copy the hyprland.conf file to ~/.config/hypr/
 
 ```markdown
 git clone https://github.com/Sir-Miraculous/Hyprland.conf.git
+
+
+
+
+fjkfjkfhjf jksd
+kjbkjrf
