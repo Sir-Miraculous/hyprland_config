@@ -9,7 +9,7 @@ git clone https://github.com/Sir-Miraculous/hyprland_config.git
 ```
 
 To automate this, use the follownig
-```blue
+```ruby
 git clone https://github.com/Sir-Miraculous/hyprland_config.git
 mkdir ~/.config/hypr
 cd
