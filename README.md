@@ -5,5 +5,5 @@ Clone this repo and copy the hyprland.conf file to ~/.config/hypr/
 
 
 ```ruby
-git clone https://github.com/Sir-Miraculous/Hyprland.conf.git
+git clone https://github.com/Sir-Miraculous/hyprland_config.git
 ```
